@@ -1,0 +1,20 @@
+[02/Apr/2020:23:59:17] (ℹ️): WordPress Instance Info:
+[02/Apr/2020:23:59:17] (ℹ️): Home URL : http://lebaume.org
+[02/Apr/2020:23:59:17] (ℹ️): Site URL : http://lebaume.org
+[02/Apr/2020:23:59:17] (ℹ️): WordPress Version : 5.4
+[02/Apr/2020:23:59:17] (ℹ️): Onboarding Version : 1.8.2
+[02/Apr/2020:23:59:17] (ℹ️): Multisite : No
+[02/Apr/2020:23:59:17] (ℹ️): Server Info : LiteSpeed
+[02/Apr/2020:23:59:17] (ℹ️): PHP Version : 7.2.29
+[02/Apr/2020:23:59:17] (ℹ️): HTTPS : No
+[02/Apr/2020:23:59:17] (ℹ️): PHP Max Execution Time : 120
+[02/Apr/2020:23:59:17] (ℹ️): PHP Max Input Vars : 5000
+[02/Apr/2020:23:59:17] (ℹ️): Max Upload Size : 134217728
+[02/Apr/2020:23:59:17] (ℹ️): Plugins:
+[02/Apr/2020:23:59:17] (ℹ️): [PLUGIN] All-in-One WP Migration : v7.18 (ServMask)
+[02/Apr/2020:23:59:17] (ℹ️): [PLUGIN] Google Analytics for WordPress by MonsterInsights : v7.10.4 (MonsterInsights)
+[02/Apr/2020:23:59:17] (ℹ️): [PLUGIN] Insert PHP Code Snippet : v1.3.1 (xyzscripts.com)
+[02/Apr/2020:23:59:17] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.2 (ThemeIsle)
+[02/Apr/2020:23:59:17] (ℹ️): [PLUGIN] WooCommerce - ShipStation Integration : v4.1.34 (WooCommerce)
+[02/Apr/2020:23:59:17] (ℹ️): [PLUGIN] WooCommerce : v4.0.1 (Automattic)
+[02/Apr/2020:23:59:17] (ℹ️): [PLUGIN] WPForms Lite : v1.5.9.5 (WPForms)
